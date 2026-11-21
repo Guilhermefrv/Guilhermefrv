@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Olá! Me chamo Guilherme Romão, fique à vontade para me conhecer mais!">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88" role="img" aria-label="Olá! Me chamo Guilherme Romão, fique à vontade para me conhecer mais!">
   <defs>
     <linearGradient id="title" x1="0" x2="1"><stop stop-color="#8a2be2"/><stop offset=".55" stop-color="#f000ff"/><stop offset="1" stop-color="#00d9ff"/></linearGradient>
     <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <text x="600" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="5" fill="#b962ff">BEM-VINDO AO MEU UNIVERSO</text>
-  <text x="600" y="100" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="url(#title)" filter="url(#glow)">Olá! Me chamo Guilherme Romão</text>
-  <text x="600" y="124" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2" fill="#a981c7">Fique à vontade para me conhecer mais!</text>
+  <text x="600" y="48" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="url(#title)" filter="url(#glow)">Olá! Me chamo Guilherme Romão</text>
+  <text x="600" y="76" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2" fill="#a981c7">Fique à vontade para me conhecer mais!</text>
 </svg>
