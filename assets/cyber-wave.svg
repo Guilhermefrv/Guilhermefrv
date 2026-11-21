@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="105" viewBox="0 0 1200 105" role="img" aria-label="Onda cyberpunk roxa animada">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#7117ea"/><stop offset=".45" stop-color="#e100ff"/><stop offset="1" stop-color="#00e5ff"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="105" fill="#0d0618" rx="12"/>
+  <path d="M-300 62 C-180 2 -60 2 60 62 S300 122 420 62 S660 2 780 62 S1020 122 1140 62 S1380 2 1500 62" fill="none" stroke="url(#g)" stroke-width="4" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="360 0" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M-300 76 C-180 16 -60 16 60 76 S300 136 420 76 S660 16 780 76 S1020 136 1140 76 S1380 16 1500 76" fill="none" stroke="#b026ff" stroke-opacity=".45" stroke-width="2">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-360 0" dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>
